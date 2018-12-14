@@ -1,5 +1,5 @@
                                                       ### Eledger
-       Project Details link                                                      https://drive.google.com/file/d/0BzKoRp5wtQfVUzZYNF9YdExGd202eXAzd1lBVGZTUG45UUpN/view?usp=sharing
+  [Project details] (https://drive.google.com/file/d/0BzKoRp5wtQfVUzZYNF9YdExGd202eXAzd1lBVGZTUG45UUpN/view?usp=sharing)
 
 ##INTRODUCTION:
 In general, a ledger is a book in which the monetary transactions of a business are posted in the form of debits and credits.
